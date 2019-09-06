@@ -27,3 +27,8 @@
 
 ## URL获取
 ![](./images/url.png)
+
+## Ubuntu16.04 wx pyhton库安装
+```
+sudo apt install python-wxgtk3.0 python-wxgtk3.0-dev
+```
